@@ -8,7 +8,7 @@ const Sidebar = ({
   showSidebar, 
   toggleSidebar, 
   theme, 
-  activeChatId, 
+  activeChatId,
   setActiveChatId 
 }) => {
   const [searchQuery, setSearchQuery] = useState('');
