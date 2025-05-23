@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.pink-radial-gradient {
+    background-image: radial-gradient(
+      circle farthest-corner at 50.2% 50.7%,
+      rgba(241,168,179,0.5) 2%,
+      rgba(254,246,233,1) 90%
+    );
+}
